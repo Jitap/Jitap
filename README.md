@@ -2,7 +2,7 @@
 <h1 align="center" style="color: cyan;"> WELCOME TO MY GITHUB . . . </h1>
 
 <!-- 2) BANNER -->
-![](Banner_01.png)
+![](Banner.png)
 
 
 <!-- 3) CONTENIDO BREVE -->
