@@ -1,18 +1,18 @@
 <!-- 1) TÍTULO -->
-<h1 align="center" style="color: cyan;"> WELCOME TO MY GITHUB . . . </h1>
+<h1 align="center" style="color: cyan;"> WELCOME TO MY GITHUB . . . <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVkazl6Zjg5NHdvdmExZTR6aGRkOWd4ZTgzdHNnYW9hZDVnZTBwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5HyXGsoFzXWPKFx07j/giphy.gif" width="140" height="120" />
+</h1>
 
 <!-- 2) BANNER -->
 ![](Banner.png)
 
-
 <!-- 3) CONTENIDO BREVE -->
-<h4 font-family: 'Kalam'> Greetings to you from JIMMY, a programmer analyst dedicated to software development and maintenance. </h4> 
+### Greetings to you from JIMMY, a programmer analyst dedicated to software development and maintenance.
 
-<h4> My goal is to apply my skills and knowledge for problem solving and thus improve the efficiency and effectiveness of software development. </h4>
+### My goal is to apply my skills and knowledge for problem solving and thus improve the efficiency and effectiveness of software development.
 
-<h4> Currently, I am looking for new opportunities to collaborate with dynamic teams and contribute to challenging projects. </h4> 
+### Currently, I am looking for new opportunities to collaborate with dynamic teams and contribute to challenging projects.
 
-<h4> Together as a true team, we will face the great challenges with discipline, creativity and perseverance to achieve our dreams. </h4>
+### Together as a true team, we will face the great challenges with discipline, creativity and perseverance to achieve our dreams.
 
 <h3 align = "right"> ¡ Thank you for your visit ! </h3>
 
