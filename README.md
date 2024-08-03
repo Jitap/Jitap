@@ -1,6 +1,6 @@
 <!-- 1) TÍTULO + STICKER -->
-# <center> WELCOME TO MY GITHUB . . . <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVkazl6Zjg5NHdvdmExZTR6aGRkOWd4ZTgzdHNnYW9hZDVnZTBwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5HyXGsoFzXWPKFx07j/giphy.gif" width="140" height="120" />
-</center>
+<h1 align="center"> WELCOME TO MY GITHUB . . . <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVkazl6Zjg5NHdvdmExZTR6aGRkOWd4ZTgzdHNnYW9hZDVnZTBwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5HyXGsoFzXWPKFx07j/giphy.gif" width="140" height="120" />
+</h1>
 
 <!-- 2) BANNER -->
 ![](Banner.png)
@@ -15,6 +15,7 @@
 ### Together as a true team, we will face the great challenges with discipline, creativity and perseverance to achieve our dreams.
 
 <h3 align = "right"> ¡ Thank you for your visit ! </h3>
+
 
 <!--
 **Jitap/Jitap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
