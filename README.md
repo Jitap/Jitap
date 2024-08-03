@@ -1,17 +1,20 @@
-<!-- 1) STICKER + TÍTULO -->
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNsMGx0NWF2eGw3aG5iaWw2M2pteG10ZW9xY2JqZTQ4N2Roem4ycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1pA5ndaOZlucSjUrXw/giphy.gif" width="120" height="130" />THE PATH OF THE NINJA PROGRAMMER
-
+<!-- 1) TÍTULO -->
+<h1 align="center" style="color: cyan;"> WELCOME TO MY GITHUB . . . </h1>
 
 <!-- 2) BANNER -->
 ![](Banner_01.png)
 
 
 <!-- 3) CONTENIDO BREVE -->
-### The path of the programmer ninja will be full of adventures and continuous learning, each line of code is a step towards knowledge and each bug overcome, a lesson learned.
+<h4 font-family: 'Kalam'> Greetings to you from JIMMY, a programmer analyst dedicated to software development and maintenance. </h4> 
 
-### Together as a true ninja team, we will face the great challenges with discipline, creativity and perseverance to achieve our dreams.
+<h4> My goal is to apply my skills and knowledge for problem solving and thus improve the efficiency and effectiveness of software development. </h4>
 
-### ¡¡ Dattebayo !!
+<h4> Currently, I am looking for new opportunities to collaborate with dynamic teams and contribute to challenging projects. </h4> 
+
+<h4> Together as a true team, we will face the great challenges with discipline, creativity and perseverance to achieve our dreams. </h4>
+
+<h3 align = "right"> ¡ Thank you for your visit ! </h3>
 
 
 <!--
